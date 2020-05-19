@@ -1,0 +1,28 @@
+{
+    "magnitude": {
+        "min": true,
+        "max": true,
+        "mean": true,
+        "std": true,
+        "skew": true,
+        "kurtosis": true,
+        "iqr": true,
+        "sem": true,
+        "mad": true,
+        "mode_val": true,
+        "mode_cnt": true
+    },
+    "phase": {
+        "min": true,
+        "max": true,
+        "mean": true,
+        "std": true,
+        "skew": true,
+        "kurtosis": true,
+        "iqr": true,
+        "sem": true,
+        "mad": true,
+        "mode_val": true,
+        "mode_cnt": true
+    }
+}

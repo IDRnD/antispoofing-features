@@ -1,0 +1,67 @@
+{
+    "signal": {
+        "min": true,
+        "max": true,
+        "mean": true,
+        "std": true,
+        "skew": true,
+        "kurtosis": true,
+        "iqr": true,
+        "sem": true,
+        "mad": true,
+        "mode_val": true,
+        "mode_cnt": true
+    },
+    "abs": {
+        "min": true,
+        "max": true,
+        "mean": true,
+        "std": true,
+        "skew": true,
+        "kurtosis": true,
+        "iqr": true,
+        "sem": true,
+        "mad": true,
+        "mode_val": true,
+        "mode_cnt": true
+    },
+    "diff": {
+        "min": true,
+        "max": true,
+        "mean": true,
+        "std": true,
+        "skew": true,
+        "kurtosis": true,
+        "iqr": true,
+        "sem": true,
+        "mad": true,
+        "mode_val": true,
+        "mode_cnt": true
+    },
+    "zero_cross": {
+        "min": true,
+        "max": true,
+        "mean": true,
+        "std": true,
+        "skew": true,
+        "kurtosis": true,
+        "iqr": true,
+        "sem": true,
+        "mad": true,
+        "mode_val": true,
+        "mode_cnt": true
+    },
+    "rms": {
+        "min": true,
+        "max": true,
+        "mean": true,
+        "std": true,
+        "skew": true,
+        "kurtosis": true,
+        "iqr": true,
+        "sem": true,
+        "mad": true,
+        "mode_val": true,
+        "mode_cnt": true
+    }
+}

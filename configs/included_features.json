@@ -1,0 +1,19 @@
+{
+    "repeats": true,
+    "stats": true,
+    "symmetry": true,
+    "bispec_stats": true,
+    "hurst": true,
+    "wind_stats": true,
+    "spec": true,
+    "mfcc": true,
+    "chroma_stft": true,
+    "chroma_cqt": true,
+    "chroma_cens": true,
+    "mel_spec": true,
+    "tonnetz": true,
+    "poly": true,
+    "tempogram": true,
+    "fourier_tempogram": true,
+    "fbank": true
+}

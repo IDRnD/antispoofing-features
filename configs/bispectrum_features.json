@@ -1,0 +1,82 @@
+{
+    "rollof": {
+        "included": true,
+        "stat_features": {
+            "min": true,
+            "max": true,
+            "mean": true,
+            "std": true,
+            "skew": true,
+            "kurtosis": true,
+            "iqr": true,
+            "sem": true,
+            "mad": true,
+            "mode_val": true,
+            "mode_cnt": true
+        }
+    },
+    "centroid": {
+        "included": false,
+        "stat_features": {
+            "min": true,
+            "max": true,
+            "mean": true,
+            "std": true,
+            "skew": true,
+            "kurtosis": true,
+            "iqr": true,
+            "sem": true,
+            "mad": true,
+            "mode_val": true,
+            "mode_cnt": true
+        }
+    },
+    "contrast": {
+        "included": true,
+        "stat_features": {
+            "min": true,
+            "max": true,
+            "mean": true,
+            "std": true,
+            "skew": true,
+            "kurtosis": true,
+            "iqr": true,
+            "sem": true,
+            "mad": true,
+            "mode_val": true,
+            "mode_cnt": true
+        }
+    },
+    "bandwidth": {
+        "included": true,
+        "stat_features": {
+            "min": true,
+            "max": true,
+            "mean": true,
+            "std": true,
+            "skew": true,
+            "kurtosis": true,
+            "iqr": true,
+            "sem": true,
+            "mad": true,
+            "mode_val": true,
+            "mode_cnt": true
+        }
+    },
+    "flatness": {
+        "included": true,
+        "stat_features": {
+            "min": true,
+            "max": true,
+            "mean": true,
+            "std": true,
+            "skew": true,
+            "kurtosis": true,
+            "iqr": true,
+            "sem": true,
+            "mad": true,
+            "mode_val": true,
+            "mode_cnt": true
+        }
+    }
+}
