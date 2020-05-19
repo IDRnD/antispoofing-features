@@ -6,8 +6,18 @@ We developed anti-spoofing system based on the introduced set of features that d
 
 ### Setup
 
+Where are 2 options to clone the repository:
+ - Code only
+```
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/IDRnD/antispoofing-features.git
+```
+ - Code + pretrained models and precomputed features
 ```
 git clone https://github.com/IDRnD/antispoofing-features.git
+```
+
+Then install all required dependencies:
+```
 cd antispoofing-features
 pip install -r requirements.txt
 ```

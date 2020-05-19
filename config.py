@@ -12,7 +12,7 @@ class Config:
     use_gpu = False
     gpu_device_id = '0'
 
-    dataset_path = Path('/media/ssd1/ASV_datasets')
+    dataset_path = Path('/path/to/dataset')
     protocols_paths = {
         'ASVspoof19_LA_train': 'ASVspoof19/LA/ASVspoof2019_LA_cm_protocols/ASVspoof2019.LA.cm.train.trn.txt',
         'ASVspoof19_LA_eval': 'ASVspoof19/LA/ASVspoof2019_LA_cm_protocols/ASVspoof2019.LA.cm.eval.trl.txt',
