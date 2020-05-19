@@ -1,5 +1,3 @@
 *.pyc
 *.ipynb_checkpoints
-data/*
-pretrained_models/*
 models/*
